@@ -67,7 +67,7 @@ Filter Panel
 
 ---
 ### Screenshot
-
+https://github.com/suchita-chaudhari1996/Blinkit_Geocery_Project/blob/main/Blinkit_Geocery.png
 ## 📸 Screenshot
 
 ![Dashboard](./Blinkit_Geocery.png)
