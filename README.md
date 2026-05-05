@@ -23,10 +23,8 @@ Blinkit handles large amounts of sales data, making it difficult to:
 - Show all important data in one dashboard  
 - Make data easy to understand using charts  
 - Help in quick and better decision-making  
-
 ---
-
-# Walkthrough of Key Visuals
+Walkthrough of Key Visuals
 KPI Cards (Top Section)
 - Total Sales  
 - Average Rating  
